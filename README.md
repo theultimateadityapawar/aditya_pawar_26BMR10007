@@ -1,6 +1,9 @@
 # aditya_pawar_26BMR10007
 # Bus Route and Departure Time Checker
 
+<img width="1734" height="907" alt="image" src="https://github.com/user-attachments/assets/c5cececd-b9c5-4d0c-aa8e-1cecbd01fe4b" />
+
+
 ## 1. Project Overview
 
 The **Bus Route and Departure Time Checker** is a simple Python-based console application that allows users to check the destination of a bus using its bus code and calculate the remaining time until a specified departure time.
